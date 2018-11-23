@@ -6,7 +6,7 @@ let car = {
         return 5000;
     },
     printDescription: function() {
-        console.log(this.make + ' ' + this.model)
+        console.log(this.make + ' ' + this.model +'\n');
     }
 }
 
